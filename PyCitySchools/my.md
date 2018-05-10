@@ -2,9 +2,9 @@
 # PyCity Schools Analysis
 
 Observed Trends:
-1 Large schools have a smaller overall passing rate (76.36%) than small and medium schools (94.82% and 95.20%, separately). 
-2 Schools with higher spending budget per student has a lower overall passing rate.
-3 Charter schools has a higher overall passing rate than District schools.
+* 1 Large schools have a smaller overall passing rate (76.36%) than small and medium schools (94.82% and 95.20%, separately). 
+* 2 Schools with higher spending budget per student has a lower overall passing rate.
+* 3 Charter schools has a higher overall passing rate than District schools.
 
 
 ```python
